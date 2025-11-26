@@ -45,7 +45,7 @@ Este repositório contém o **boilerplate arquitetural** do projeto para fins de
 ## **📦 Como rodar (Demo)**
 
 \# Clone o repositório  
-git clone \[https://github.com/dougrn/cnpjia.git\](https://github.com/dougrn/cnpjia.git)
+git clone https://github.com/dougrn/cnpjia.git
 
 \# Instale as dependências  
 pip install \-r requirements.txt
@@ -56,3 +56,4 @@ uvicorn app:app \--reload
 Desenvolvido por Douglas  
 
 Especialista em Engenharia de Dados e Sistemas Inteligentes.
+
